@@ -7,6 +7,7 @@ import Task3 from './components/task-3/Task3'
 import './assets/css/styles.css';
 import Counter from './components/task-4-c/Counter'
 import Timer from './components/task-5-c/Timer'
+import Juice from './components/task-6-c/Juice'
 function App() {
 
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path='/task-3' element={<Task3/>} />
         <Route path='/task-4' element={<Counter/>} />
         <Route path='/task-5' element={<Timer/>} />
+        <Route path='/task-6' element={<Juice/>} />
       </Routes>
     </BrowserRouter>
   )

@@ -29,6 +29,12 @@ const taskInfo=[
         'icon': '🔥 Class',
         'link': "task-5"
     },
+    {
+        'id': '6',
+        'name': 'Orange Juice',
+        'icon': '🔥 Class',
+        'link': "task-6"
+    },
     
 
 ]
