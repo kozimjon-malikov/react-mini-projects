@@ -8,6 +8,7 @@ export default class JuiceData extends Component {
             <>
                 <div className="card">
                     <img src={elements.imgUrl} alt="" />
+                    <span>-%30</span>
                     <div className="card__body">
                         <h2>
                             {elements.name}
